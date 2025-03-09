@@ -4,7 +4,6 @@
     </header>
     <main>
         <p style="font-family: Arial, sans-serif;">This is a basic page created with GitHub Pages.</p>
-        <p style="font-family: Arial, sans-serif;"></p>
     </main>
     <footer>
         <p style="font-family: Arial, sans-serif;">Created by Enderdude6TheGit</p>
